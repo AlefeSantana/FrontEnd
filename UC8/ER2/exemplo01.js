@@ -1,5 +1,5 @@
 /*regras para operadores de comparação
-ao comparar duas coisas o resultado é booleano, portanto true ou
+ao comparar duas coisas o resultado é booleano, portanto true ou false
 = (é utilizado para atribuição)
 == p/ comparação (verifica se é igual)
 === p/ comparação (verifica se é identico, portanto o mesmo tipo de )
