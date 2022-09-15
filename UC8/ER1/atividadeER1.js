@@ -21,7 +21,7 @@ else{
     console.log('A peça possui o peso adequado')
 }
 
-let nomePeca = 'Disco de Freio'
+let nomePeca = ''
 if (nomePeca.length > 3){
     console.log('O nome da peça está adequado para o cadastro')
 }
@@ -29,5 +29,5 @@ else if(nomePeca.length == 0){
     console.log("O nome da peça não pode ser vazio")
 }
 else{
-    console.log("o nome da peça deve ter mais de 3 caracteres, digite o nome adequado")
+    console.log("O nome da peça deve ter mais de 3 caracteres, digite o nome adequado")
 }
